@@ -8,5 +8,9 @@
 <body>
     <h1>fuck wolrd</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat ut accusantium laboriosam excepturi quod expedita libero aliquid? Dicta rerum incidunt expedita aperiam? Esse vero quidem voluptatibus dolore rem soluta iste.</p>
+    <ul>
+        <li>baris 1</li>
+        <li>baris 2</li>
+    </ul>
 </body>
 </html>
